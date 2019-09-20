@@ -1,0 +1,38 @@
+[
+    {
+        "url": "./assets/images/groceries/chilled-fresh/bacon.jpg",
+        "name": "Bacon"
+    },
+    {
+        "url": "./assets/images/groceries/chilled-fresh/beef.jpg",
+        "name": "Beef"
+    },
+    {
+        "url": "./assets/images/groceries/chilled-fresh/black-pudding.jpg",
+        "name": "Black Pudding/Haggis"
+    },
+    {
+        "url": "./assets/images/groceries/chilled-fresh/butter-margarine.jpg",
+        "name": "Butter and Margarine"
+    },
+    {
+        "url": "./assets/images/groceries/chilled-fresh/cheese-continental.jpg",
+        "name": "Cheese Continental"
+    },
+    {
+        "url": "./assets/images/groceries/chilled-fresh/cheese-cottage.jpg",
+        "name": "Cheese Cottage"
+    },
+    {
+        "url": "./assets/images/groceries/chilled-fresh/cheese-spread-snacks.jpg",
+        "name": "Cheese Spread/Snacks"
+    },
+    {
+        "url": "./assets/images/groceries/chilled-fresh/chesse-speciality.jpg",
+        "name": "Cheese Speciality"
+    },
+    {
+        "url": "./assets/images/groceries/chilled-fresh/chesse-regional.jpg",
+        "name": "Cheese Regional"
+    }
+]

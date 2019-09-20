@@ -1,0 +1,55 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; }
+body * {
+    -webkit-tap-highlight-color: transparent;
+}
+* { font-family: 'Lato', sans-serif; }
+.flex {
+    display: flex;
+}
+.flex-direction-row {
+    flex-direction: row;
+}
+.flex-direction-column {
+    flex-direction: column;
+}
+.w-100 {
+    width: 100%;
+}
+.h-10 {
+    height:10vh;
+}
+.white-color {
+    color: #ffffff;
+}
+.justify-center {
+    justify-content: center;
+}
+.align-center {
+    align-items: center;
+}
+.absolute-position {
+    position: absolute;
+}
+.relative-position {
+    position: relative;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+.flex-end {
+    justify-content: flex-end;
+}
+.space-between {
+    justify-content: space-between;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px; 
+}

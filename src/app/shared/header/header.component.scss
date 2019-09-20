@@ -1,0 +1,141 @@
+header {
+    padding: 2em 0 5em 0;
+    position: fixed;
+    width: 100%;
+    background: white;
+    z-index: 999999;
+}
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.clear:before, .clear:after {
+    content: "";
+    display: table;
+}
+.col {
+    float: left;
+    padding: 0 20px;
+    width: 100%;
+}
+.full {
+    width: 100%;
+}
+header .container .full {
+    position: relative;
+}
+header .container .full .logo {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    margin-left: 0;
+    margin-top: 0;
+    width: 242px;
+    height: 50px;
+}
+a {
+    color: #666;
+}
+img {
+    border: 0;
+    display: block;
+    -ms-interpolation-mode: bicubic;
+}
+header .container .full .navigation {
+    position: relative;
+    width: 100%;
+}
+header .container .full #nav-toggle {
+    display: none;
+}
+header .container .full .navigation ul.main.logged-out {
+    left: 350px;
+}
+header .container .full .navigation ul.main {
+    margin: 1.5em 0 0 0;
+    padding: 0;
+    width: 55%;
+    position: absolute;
+    top: 0;
+    left: 315px;
+    list-style: none;
+}
+header .container .full .navigation ul.main li.home {
+    position: absolute;
+    top: -999em;
+    left: -999em;
+}
+header .container .full .navigation ul.main li {
+    float: left;
+    margin: -.5em 1em 0 0;
+    margin: -.7em 1em 0 0\0;
+    padding: 0;
+}
+li {
+    line-height: 1.4em;
+    margin: 0 0 .96em 0;
+}
+header .container .full .navigation ul.main li a {
+    text-decoration: none;
+    font-size: .9em;
+    background: none;
+    color: #1e3d6a;
+}
+.clear:after {
+    clear: both;
+}
+header .container .full .navigation ul.country-and-basket {
+    margin: 0;
+    padding: 0;
+    width: 113px;
+    height: 35px;
+    list-style: none;
+    float: right;
+    position: relative;
+    position: absolute;
+    top: .45em;
+    right: 0;
+}
+header .container .full .navigation ul.country-and-basket li.country {
+    margin: -.35em 0 0 0;
+}
+header .container .full .navigation ul.country-and-basket li.basket {
+    margin: -.2em 0 0 0;
+    padding: .4em;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.navigation ul.country-and-basket li.basket span {
+    position: absolute;
+    bottom: -.5em;
+    right: -.5em;
+    font-size: .7em;
+    font-weight: bold;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #029902;
+    color: #fff;
+    display: block;
+    width: 2.5em;
+    height: 2.5em;
+    text-align: center;
+}
+.brand-logo-cls {
+    width: 80px;
+    margin-right: 3%;
+    float:left;
+}
+.brand-logo-text-one {
+    position: absolute;
+    padding-top: 5%;
+    color: #F7C635;
+}
+.brand-logo-text-two {
+    position: absolute;
+    padding-top: 13%;
+    font-size: 12px;
+    padding-left: 0%;
+    color: #C82719;
+}

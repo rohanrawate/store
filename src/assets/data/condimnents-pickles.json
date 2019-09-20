@@ -1,0 +1,54 @@
+[
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/barbeque-marinadies.jpg",
+		"name": "Barbeque / Marinades"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/condimnent-sauces.jpg",
+		"name": "Condiment Sauces"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/cooking-oils.jpg",
+		"name": "Cooking Oils"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/mayonnaise.jpg",
+		"name": "Mayonnaise"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/mustard.jpg",
+		"name": "Mustard"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/olives-peppers.jpg",
+		"name": "Olives / Peppers"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/pesto.jpg",
+		"name": "Pesto"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/pickled-onions.jpg",
+		"name": "Pickled Condiment"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/pickles-other.jpg",
+		"name": "Pickled Other"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/relishes-chutneys.jpg",
+		"name": "Relishes / Chutneys"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/salads-dressings.jpg",
+		"name": "Salad Dressings"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/sauces.jpg",
+		"name": "Sauces"
+	},
+	{
+		"url": "./assets/images/groceries/condimnents-pickles/vinegar.jpg",
+		"name": "Vinegar"
+	}
+]

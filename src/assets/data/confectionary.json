@@ -1,0 +1,62 @@
+[
+    {
+        "url": "./assets/images/groceries/confectionary/boxes.jpg",
+        "name": "Boxes"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/burnt-sugar.jpg",
+        "name": "Burnt Sugar"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/chocolate-bigbags.jpg",
+        "name": "Chocolate Big Bags"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/chocolate-bigbars.jpg",
+        "name": "Chocolate Big Bars"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/chocolate-multipack.jpg",
+        "name": "Chocolate Multi Pack"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/chocolate-single-bar.jpg",
+        "name": "Chocolate Single Bar"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/green-blacks.jpg",
+        "name": "Green and Blacks"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/haribo.jpg",
+        "name": "Haribo"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/mints-chewinggum.jpg",
+        "name": "Mints / Chewing Gum"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/pick-mix.jpg",
+        "name": "Pick and Mix"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/pick-mix-sugar-free.jpg",
+        "name": "Pick/Mix Sugar Free"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/simpkins-sweets.jpg",
+        "name": "Simpkins Sweets"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/sports-nutrition.jpg",
+        "name": "Sports Nutrition"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/sweets-hanging-bags.jpg",
+        "name": "Sweets Hanging Bags"
+    },
+    {
+        "url": "./assets/images/groceries/confectionary/sweets-misc.jpg",
+        "name": "Sweets Misc"
+    }
+]

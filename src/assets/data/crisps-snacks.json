@@ -1,0 +1,46 @@
+[
+    {
+        "url": "./assets/images/groceries/crisps-snacks/cofresh.jpg",
+        "name": "Cofresh"
+    },
+    {
+        "url": "./assets/images/groceries/crisps-snacks/cracker-crisps.jpg",
+        "name": "Cracker Crisps"
+    },
+    {
+        "url": "./assets/images/groceries/crisps-snacks/crisps-big-bag.jpg",
+        "name": "Crisps Big Bag"
+    },
+    {
+        "url": "./assets/images/groceries/crisps-snacks/crisps-multi-packs.jpg",
+        "name": "Crisps Multi Packs"
+    },
+    {
+        "url": "./assets/images/groceries/crisps-snacks/crisps-premium.jpg",
+        "name": "Crisps Premium"
+    },
+    {
+        "url": "./assets/images/groceries/crisps-snacks/crisps-single-packs.jpg",
+        "name": "Crisps Single Packs"
+    },
+    {
+        "url": "./assets/images/groceries/crisps-snacks/dips.jpg",
+        "name": "Dips"
+    },
+    {
+        "url": "./assets/images/groceries/crisps-snacks/fruit-snacks.jpg",
+        "name": "Fruit Snacks"
+    },
+    {
+        "url": "./assets/images/groceries/crisps-snacks/nuts-popcorn.jpg",
+        "name": "Nuts and Popcorn"
+    },
+    {
+        "url": "./assets/images/groceries/crisps-snacks/pork-snacks.jpg",
+        "name": "Pork Snacks"
+    },
+    {
+        "url": "./assets/images/groceries/crisps-snacks/pringles.jpg",
+        "name": "Pringles"
+    }
+]

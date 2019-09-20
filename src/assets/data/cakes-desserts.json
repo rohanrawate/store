@@ -1,0 +1,42 @@
+[
+    {
+        "url": "./assets/images/groceries/cakes-desserts/cake-macvities.jpg",
+        "name": "Cakes McVities"
+    },
+    {
+        "url": "./assets/images/groceries/cakes-desserts/cakes-cadburies.jpg",
+        "name": "Cakes Cadburys"
+    },
+    {
+        "url": "./assets/images/groceries/cakes-desserts/cakes-mrkipling.jpg",
+        "name": "Cakes Mr Kipling"
+    },
+    {
+        "url": "./assets/images/groceries/cakes-desserts/cakes-other.jpg",
+        "name": "Cakes Other"
+    },
+    {
+        "url": "./assets/images/groceries/cakes-desserts/cakes-walkers.jpg",
+        "name": "Cakes Walkers"
+    },
+    {
+        "url": "./assets/images/groceries/cakes-desserts/desserts-packet.jpg",
+        "name": "Desserts Packet"
+    },
+    {
+        "url": "./assets/images/groceries/cakes-desserts/desserts-tinned.jpg",
+        "name": "Desserts Tinned"
+    },
+    {
+        "url": "./assets/images/groceries/cakes-desserts/dessert-sundries.jpg",
+        "name": "Dessert Sundries"
+    },
+    {
+        "url": "./assets/images/groceries/cakes-desserts/lovemore-glutten-free.jpg",
+        "name": "Lovemore Gluten Free"
+    },
+    {
+        "url": "./assets/images/groceries/cakes-desserts/nevis-bakery.jpg",
+        "name": "Nevis Bakery"
+    }
+]

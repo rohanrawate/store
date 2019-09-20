@@ -1,0 +1,30 @@
+[
+    {
+        "url": "./assets/images/groceries/cereals/better-for-you.jpg",
+        "name": "Better For You"
+    },
+    {
+        "url": "./assets/images/groceries/cereals/cereal-bars.jpg",
+        "name": "Cereal Bars"
+    },
+    {
+        "url": "./assets/images/groceries/cereals/cereal-biscuits.jpg",
+        "name": "Cereal Biscuits"
+    },
+    {
+        "url": "./assets/images/groceries/cereals/childrens-cereal.jpg",
+        "name": "Childrens Cereal"
+    },
+    {
+        "url": "./assets/images/groceries/cereals/crunchy-cereals.jpg",
+        "name": "Crunchy Cereals"
+    },
+    {
+        "url": "./assets/images/groceries/cereals/hot-cereals.jpg",
+        "name": "Hot Cereals"
+    },
+    {
+        "url": "./assets/images/groceries/cereals/traditional-cereal.jpg",
+        "name": "Traditional Cereal"
+    }
+]

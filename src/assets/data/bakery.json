@@ -1,0 +1,50 @@
+[
+    {
+        "url": "./assets/images/groceries/bakery/biona-organic-bread.jpg",
+        "name": "Biona Organic Bread"
+    },
+    {
+        "url": "./assets/images/groceries/bakery/bread-brown.jpg",
+        "name": "Bread Brown"
+    },
+    {
+        "url": "./assets/images/groceries/bakery/bread-other.jpg",
+        "name": "Bread Other"
+    },
+    {
+        "url": "./assets/images/groceries/bakery/bread-white.jpg",
+        "name": "Bread White"
+    },
+    {
+        "url": "./assets/images/groceries/bakery/breakfast.jpg",
+        "name": "Breakfast"
+    },
+    {
+        "url": "./assets/images/groceries/bakery/gluten-free.jpg",
+        "name": "Gluten Free"
+    },
+    {
+        "url": "./assets/images/groceries/bakery/mission-delli.jpg",
+        "name": "Mission Delli Wraps"
+    },
+    {
+        "url": "./assets/images/groceries/bakery/part-baked.jpg",
+        "name": "Part Baked"
+    },
+    {
+        "url": "./assets/images/groceries/bakery/rolls.jpg",
+        "name": "Rolls"
+    },
+    {
+        "url": "./assets/images/groceries/bakery/sandwich-alternative.jpg",
+        "name": "Sandwich Alternative"
+    },
+    {
+        "url": "./assets/images/groceries/bakery/tea-break.jpg",
+        "name": "TeaBreak"
+    },
+    {
+        "url": "./assets/images/groceries/bakery/weight-watchers.jpg",
+        "name": "Weight Watchers"
+    }
+]
